@@ -59,5 +59,11 @@ while True:
 ## Output
 # server :
 
+<img width="1120" height="418" alt="image" src="https://github.com/user-attachments/assets/ee128b51-1bc0-44ee-b120-d5d3fad0ed21" />
+
+# Client :
+
+<img width="840" height="137" alt="image" src="https://github.com/user-attachments/assets/60b99928-6af3-4055-aa89-99eb039f0bc9" />
+
 ## Result
 Thus Execution of Network commands Performed 
